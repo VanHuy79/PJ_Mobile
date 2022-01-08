@@ -1,0 +1,36 @@
+{
+    "history":[
+        {
+            "id": 1,
+            "name": "Tellme - xúc xích khô vị thịt heo",
+            "price": 50000,
+            "status" : "Giao hàng thành công •",
+            "img": "https://www.petcity.vn/media/product/250_3742_d91034c1d23926677f28.jpg",
+            "Date" : "Jun 01 2022"
+        },
+        {
+            "id": 2,
+            "name": "ME-O Delite Tuna Salmon",
+            "price": 21500,
+            "status" : "Giao hàng thành công •",
+            "img": "https://www.petcity.vn/media/product/250_4893_1.png",
+            "Date" : "Jun 01 2022"
+        },
+        {
+            "id": 3,
+            "name": "ME-O Wet Food Salmon",
+            "price": 13000,
+            "status" : "Giao hàng thành công •",
+            "img": "https://www.petcity.vn/media/product/250_4886_2.png",
+            "Date" : "Dec 31 2021"
+        },
+        {
+            "id": 4,
+            "name": "Smart Heart - Pate vị bò",
+            "price": 27000,
+            "status" : "Giao hàng thành công •",
+            "img": "https://www.petcity.vn/media/product/250_3448_pate_smartheart_cho_cho_lon.jpg",
+            "Date" : "Dec 25 2021"
+        }
+    ]
+}

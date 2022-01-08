@@ -1,0 +1,170 @@
+{
+    "products1":[
+        {
+            "id": 1,
+            "name": "ME-O Delite Tuna Salmon",
+            "price": 21500,
+            "img": "https://www.petcity.vn/media/product/250_4893_1.png",
+            "about": 
+            "Nguyên Liệu Chính: Cá ngừ tươi, cá hồi tươi, chất tạo đông, tinh bột biến tính, chất điều vị, taurin, biotin, Vitamin C, Kẽm.",
+            "trademark": "Farmina (Italia)"
+        },
+        {
+            "id": 2,
+            "name": "ME-O Wet Food Salmon",
+            "price": 13000,
+            "img": "https://www.petcity.vn/media/product/250_4886_2.png",
+            "about": 
+            "Thành phần : Cá ngừ, Cá thịt trắng, Chất tạo đông, Chất tăng hương vị, Dầu đậu nành, Taurine, Chất tạo màu. Công dụng chống lão hóa, cân bằng Canxi trong máu. Tạo khoáng chất cho xương và răng giúp cho mèo con mau lớn.",
+            "trademark": "Perfect Companion (Thailand)"
+        },
+        {
+            "id": 3,
+            "name": "ME-O Delite Tuna Mousse",
+            "price": 15000,
+            "img": "https://www.petcity.vn/media/product/250_4888_3.png",
+            "about": 
+            "Thành phần : Cá ngừ tươi (45%) Chất tạo đông (E415) , tinh bột biến tính, taurin, Biotin, các vitamin và khoáng chất.",
+            "trademark": "Perfect Companion (Thailand)"
+        },
+        {
+            "id": 4,
+            "name": "ME-O Delite Tuna And Chicken",
+            "price": 20000,
+            "img": "https://www.petcity.vn/media/product/250_4890_2.png",
+            "about": 
+            "Thành phần : Cá ngừ tươi (40%), tinh bột biến tính, sữa dê, dầu hướng dương, chất tạo đông, chất điều vị, taurin, các vitamin và khoáng chất.",
+            "trademark": "Perfect Companion (Thailand)"
+        },
+        {
+            "id": 5,
+            "name": "ME-O Wet Food Ocean Fish",
+            "price": 13000,
+            "img": "https://www.petcity.vn/media/product/250_4885_4.png",
+            "about": 
+            "Thành phần : Cá thu, Cá mòi, Thịt gà, Chất tạo đông, Dầu đậu nành, Chất tăng hương vị, Taurine, Chất giữ màu. Công dụng chống lão hóa, cân bằng Canxi trong máu. Tạo khoáng chất cho xương và răng giúp cho mèo con mau lớn.",
+            "trademark": "Perfect Companion (Thailand)"
+        },
+        {
+            "id": 6,
+            "name": "ME-O Wet Food Sardine",
+            "price": 140000,
+            "img": "https://www.petcity.vn/media/product/250_4887_3.png",
+            "about": 
+            "Thành phần : Cá mòi, Cá thu, Thịt gà, Gạo, Chất tạo đông, Dầu gà, Chất tăng hương vị, Taurine, Chất giữ màu. Công dụng chống lão hóa, cân bằng Canxi trong máu. Tạo khoáng chất cho xương và răng giúp cho mèo con mau lớn.",
+            "trademark": "Perfect Companion (Thailand)"
+        }
+    ],
+    "products2":[
+        {
+            "id": 1,
+            "name": "Tellme - xúc xích khô vị thịt heo",
+            "price": 50000,
+            "img": "https://www.petcity.vn/media/product/250_3742_d91034c1d23926677f28.jpg",
+            "about": 
+            "Nguồn thịt ức gà 100% của Việt Nam và đạt tiêu chuẩn cho người, được cắt và xử lý cầu kỳ làm khô thành những miếng nhỏ, sau đó được đóng vào túi cẩn thận với tình yêu đong đầy dành cho cún yêu!",
+            "trademark": "CIAO (Nhật Bản)"
+        },
+        {
+            "id": 2,
+            "name": "Iskhan Junio - sữa tươi đặc biệt",
+            "price": 252000,
+            "img": "https://www.petcity.vn/media/product/250_2350_iskhan_junior_petcity.jpg",
+            "about": 
+            "Thịt gà tươi nghiền, Bột thịt gà, Bột sắn, Bột khoai lang, Bột chuối, Thịt gà thủy phân (Hương vị tự nhiên), Hỗn hợp trái cây và rau quả, Dầu gà, dầu cá hồi, cellulose tinh chế, bột trứng, men bia, hạt lanh, natri clorua, lecithin, DL-methionine, vitamin E, vitamin C",
+            "trademark": "Iskhan (Hàn Quốc)"
+        },
+        {
+            "id": 3,
+            "name": "SmartHell - Thức ăn dinh dưỡng",
+            "price": 185000,
+            "img": "https://www.petcity.vn/media/product/250_3537_smartheart.jpg",
+            "about": 
+            "Chó lớn hơn 1 tuổi hoặc chó trưởng thành Cần các chất dinh dưỡng thiết yếu phù hợp với độ tuổi Thức ăn cho chó Smart Smart ® chọn protein chất lượng từ các loại thịt, bao gồm ngũ cốc, khoáng chất và vitamin, do đó cung cấp dinh dưỡng thực sự đầy đủ. Với giá trị của dầu cá biển với DHA và Omega 3 (Omega-3) và Lecithin với Choline giúp phát triển trí nhớ tốtVà tăng cường phát triển trí não và tăng cường tim",
+            "trademark": "SmartHell"
+        },
+        {
+            "id": 4,
+            "name": "Pedigree - Bánh xương cho chó",
+            "price": 35000,
+            "img": "https://www.petcity.vn/media/product/250_3507_bo_3_banh_xuong_cho_trung_pedigree_dentastix_98g_1513177333_53411912_e4f5630b5f6918f4269546cebfb47de0_zoom.jpg",
+            "about": 
+            "Bánh xương chăm sóc răng dành cho chó lớn Pedigree được nghiên cứu tại trung tâm Dinh Dưỡng Thú Nuôi Waltham và được chứng minh lâm sàng giúp giảm đến 80% cao răng tích tụ khi được sử dụng như một phần của một thói quen chăm sóc răng miệng hàng ngày cho chó. Ngoài ra, hình dạng chữ X của DentaStix làm sạch kẽ răng và lợi chó yêu nhà bạn, giúp chúng có hàm răng sạch sẽ.",
+            "trademark": "Pedigree"
+        },
+        {
+            "id": 5,
+            "name": "Smart Heart - Pate vị bò",
+            "price": 27000,
+            "img": "https://www.petcity.vn/media/product/250_3448_pate_smartheart_cho_cho_lon.jpg",
+            "about": 
+            "Sản phẩm được nghiên cứu sản xuất để phù hợp với nhu cầu dinh dưỡng của chú cún cưng nhà bạn. Với đầy đủ các dưỡng chất thiết yếu cùng với hương vị thịt bò và thịt cừu đầy hấp dẫn, Thức Ăn Cho Chó Pate Smartheart  vị bò  cho chó 130gr chắc hẳn sẽ là lựa chọn hàng đầu giúp cún cưng của bạn phát triển khỏe mạnh.",
+            "trademark": "Smart Heart"
+        },
+        {
+            "id": 6,
+            "name": "EnFresh - Thức ăn khô cho chó",
+            "price": 30000,
+            "img": "https://www.petcity.vn/media/product/250_3175_enfresh_puppy_petcity_1.jpg",
+            "about": 
+            "Chó lớn hơn 1 tuổi hoặc chó trưởng thành Cần các chất dinh dưỡng thiết yếu phù hợp với độ tuổi Thức ăn cho chó Smart Smart ® chọn protein chất lượng từ các loại thịt, bao gồm ngũ cốc, khoáng chất và vitamin, do đó cung cấp dinh dưỡng thực sự đầy đủ. Với giá trị của dầu cá biển với DHA và Omega 3 (Omega-3) và Lecithin với Choline giúp phát triển trí nhớ tốtVà tăng cường phát triển trí não và tăng cường tim",
+            "trademark": "EnFresh (Hàn Quốc)"
+        }
+    ],
+    "products3":[
+        {
+            "id": 1,
+            "name": "Cature - Hạt khử mùi lọ 200ml",
+            "price": 39000,
+            "img": "https://www.petcity.vn/media/product/250_4506_4958aa275685e916f50569c5bc3d1665.jpg",
+            "about": 
+            "Chất liệu tự nhiên, tốt cho vật nuôi và con người. Công nghệ sợi tự nhiên từ Tập đoàn Công nghệ sợi hàng đầu thế giới Cature. Chất xơ thực vật tự nhiên là thành phần cốt lõi. Được thiết kế để trộn với cát mèo của bạn để loại bỏ mùi hôi của chậu cát vệ sinh của mèo. Dễ sử dụng, chỉ đơn giản là rắc một ít lên vào khay cát vệ sinh mèo của bạn.",
+            "trademark": "Cature (Hàn Quốc)"
+        },
+        {
+            "id": 2,
+            "name": "Hana Pet - bọt tắm khô dưỡng ẩm",
+            "price": 59000,
+            "img": "https://www.petcity.vn/media/product/250_4389_sha1.jpg",
+            "about": 
+            "Giải pháp mang tính đột phá cho thú cưng, đặc biệt là những thú cưng lười tắm, sợ nước và những người chủ bận rộn không có nhiều thời gian để chăm sóc và đưa thú cưng đi spa. Với thành phần lành tính, thiên nhiên, cao cấp, đảm bảo hoàn toàn an toàn cho thú cưng của bạn khi liếm lông (sau khi dùng Bọt tắm khô). Làm sạch nhanh cho thú cưng chỉ với 5’, đặc biệt hữu dụng đối với thú cưng sợ nước, chủ bận rộn, thú cưng bị ốm, bị thương hay khi trời lạnh. Phục hồi lớp lông xơ rối, hư tổn.",
+            "trademark": "Hana Pet"
+        },
+        {
+            "id": 3,
+            "name": "Catsrang - Thức ăn hạt cho mèo",
+            "price": 448000,
+            "img": "https://www.petcity.vn/media/product/4340_ava.jpg",
+            "about": 
+            "Với đặc tính dễ tiêu, hạt Catsrang giúp mèo đi phân rắn và giảm thiểu mùi hôi khó chịu. Hàm lượng dinh dưỡng cân bằng, catsrang phù hợp trong việc cải thiện da lông, phòng tránh bệnh quáng gà ở mèo. Đặc biệt, sản phẩm không sử dụng chất bảo quản, chất kháng sinh, phẩm màu hay hương liệu nhân tạo khác.",
+            "trademark": "Catsrang (Hàn Quốc)"
+        },
+        {
+            "id": 4,
+            "name": "Bát BoBo 3062, 15x7cm",
+            "price": 95000,
+            "img": "https://www.petcity.vn/media/product/4811_sp_96_bat_3062_03.jpg",
+            "about": 
+            "Sản phẩm được làm từ chất liệu nhựa cao cấp không gây hại, không làm ảnh hưởng đến chất lượng thức ăn, màu sắc bất mắt giúp thú cưng ăn ngon mệng hơn. Bề mặt trơn láng, dễ dàng chùi rửa sạch sẽ sau khi sử dụng. Chất liệu tốt, bền, đẹp, không độc hại, không kích ứng với da.",
+            "trademark": "Iskhan (Hàn Quốc)"
+        },
+        {
+            "id": 5,
+            "name": "Rubber - Đồ chơi hình đĩa bay",
+            "price": 90000,
+            "img": "https://www.petcity.vn/media/product/250_4091_____a.PNG",
+            "about": 
+            "Sản phẩm được làm từ 100% cao su thiên nhiên, có độ mềm, dẻo, dai vừa phải và đặc biệt an toàn. Đạt tiêu chuẩn Châu Âu, có giấy chứng nhận REACH, ROSH. Không độc hai, an toàn cho thú cưng khi cắn và ngậm. Màu sắc đẹp,  thu hút sự chú ý của thú cưng nhà bạn.",
+            "trademark": "RubberT"
+        },
+        {
+            "id": 6,
+            "name": "Petstar - Balo phi hành gia",
+            "price": 399000,
+            "img": "https://www.petcity.vn/media/product/250_3757_balo_trong_vang.jpg",
+            "about": 
+            "Với sản phẩm này, chó mèo cưng của bạn có thể nhìn ra thế giới và tận hưởng phong cảnh, nhìn ngắm bên ngòai, tương tác với thế giới bên ngoài. Điểm đặc biệt của balo là nhựa trong sang trọngSản phẩm được làm từ những chất liệu thân thiện, không độc hại và nhất là dễ dàng lau chùi khi bám bẩn.",
+            "trademark": "Petstar"
+        }
+    ]
+}
